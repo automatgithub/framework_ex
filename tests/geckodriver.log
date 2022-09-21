@@ -1,0 +1,13 @@
+1663673007572	geckodriver	INFO	Listening on 127.0.0.1:58992
+1663673010638	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\HAMLIN~1\\AppData\\Local\\Temp\\rust_mozprofilelEEVpU"
+1663673011664	Marionette	INFO	Marionette enabled
+1663673011683	Marionette	INFO	Listening on port 59004
+Read port: 59004
+1663673012498	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HAMLIN~1\\AppData\\Local\\Temp\\rust_mozprofilelEEVpU\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.actitime.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.actitime.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.actitime.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.actitime.com."
+1663673031305	Marionette	INFO	Stopped listening on port 59004
+[Parent 3820, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
